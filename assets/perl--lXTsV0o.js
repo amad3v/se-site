@@ -1,0 +1,1 @@
+import{t as e}from"./perl-CI1-nI1K.js";export{e as default};

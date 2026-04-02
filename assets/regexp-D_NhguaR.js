@@ -1,0 +1,1 @@
+import{t as e}from"./regexp-lwugl_h1.js";export{e as default};
